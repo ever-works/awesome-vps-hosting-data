@@ -1,0 +1,11 @@
+name: "Scaleway"
+description: "French cloud provider offering instances, bare metal, and managed Kubernetes. Focuses on developer-friendly tools and European data sovereignty. Paid pricing with hourly billing."
+source_url: "https://www.scaleway.com/"
+category: "EU & Regional Providers"
+tags:
+  - "paid"
+  - "api"
+  - "eu"
+icon_url: "https://icons.duckduckgo.com/ip3/www.scaleway.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.scaleway.com/>\n"
+updated_at: "2026-11-21 01:57"

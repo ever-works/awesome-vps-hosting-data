@@ -1,0 +1,11 @@
+name: "netcup"
+description: "German hosting provider specializing in VPS, dedicated servers, and domain registration. Known for low prices and high hardware specifications. Paid plans primarily targeting the EU market."
+source_url: "https://www.netcup.eu/"
+category: "EU & Regional Providers"
+tags:
+  - "paid"
+  - "budget"
+  - "eu"
+icon_url: "https://icons.duckduckgo.com/ip3/www.netcup.eu.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.netcup.eu/>\n"
+updated_at: "2026-11-21 01:57"

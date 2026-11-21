@@ -1,0 +1,12 @@
+name: "Google Cloud Platform"
+description: "Suite of cloud computing services running on Google's infrastructure. Includes Compute Engine, Kubernetes Engine, and App Engine. Paid pricing with sustained use discounts."
+source_url: "https://cloud.google.com/"
+category: "Developer Clouds"
+tags:
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "google"
+icon_url: "https://icons.duckduckgo.com/ip3/cloud.google.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://cloud.google.com/>\n"
+updated_at: "2026-11-21 01:57"

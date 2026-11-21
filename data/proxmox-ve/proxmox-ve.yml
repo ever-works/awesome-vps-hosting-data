@@ -1,0 +1,12 @@
+name: "Proxmox VE"
+description: "Open-source virtualization platform for managing virtual machines and containers. Based on Debian Linux and includes a web-based management interface. Used for private cloud and server consolidation."
+source_url: "https://www.proxmox.com/"
+category: "Bare-Metal Servers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "virtualization"
+  - "agpl-3-0"
+icon_url: "https://icons.duckduckgo.com/ip3/www.proxmox.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.proxmox.com/>\n\nLicense: GNU AGPL v3.\n"
+updated_at: "2026-11-21 01:57"

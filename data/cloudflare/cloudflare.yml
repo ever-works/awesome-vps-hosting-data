@@ -1,0 +1,12 @@
+name: "Cloudflare"
+description: "Connectivity cloud platform offering security, performance, and reliability services. Includes edge computing, DNS, and DDoS protection. Freemium model with paid tiers."
+source_url: "https://www.cloudflare.com/"
+category: "Developer Clouds"
+tags:
+  - "freemium"
+  - "api"
+  - "edge"
+  - "security"
+icon_url: "https://icons.duckduckgo.com/ip3/www.cloudflare.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.cloudflare.com/>\n"
+updated_at: "2026-11-21 01:57"

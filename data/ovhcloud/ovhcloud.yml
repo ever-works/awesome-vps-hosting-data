@@ -1,0 +1,12 @@
+name: "OVHcloud"
+description: "European cloud provider specializing in dedicated servers, VPS, and public cloud. Offers anti-DDoS protection and a wide range of data center locations. Paid enterprise-grade services."
+source_url: "https://www.ovhcloud.com/"
+category: "Bare-Metal Servers"
+tags:
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "eu"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ovhcloud.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.ovhcloud.com/>\n"
+updated_at: "2026-11-21 01:57"

@@ -1,0 +1,11 @@
+name: "Render"
+description: "Cloud hosting platform for deploying web services and static sites. Offers automatic deploys, SSL, and private networking. Freemium model with paid plans for production."
+source_url: "https://render.com/"
+category: "Developer Clouds"
+tags:
+  - "freemium"
+  - "paid"
+  - "paas"
+icon_url: "https://icons.duckduckgo.com/ip3/render.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://render.com/>\n"
+updated_at: "2026-11-21 01:57"

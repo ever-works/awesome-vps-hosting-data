@@ -1,0 +1,11 @@
+name: "IONOS"
+description: "European cloud and hosting provider offering VPS, dedicated servers, and cloud solutions. Serves small businesses and enterprise clients with scalable infrastructure. Paid plans with optional managed services."
+source_url: "https://www.ionos.com/"
+category: "EU & Regional Providers"
+tags:
+  - "paid"
+  - "enterprise"
+  - "eu"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ionos.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.ionos.com/>\n"
+updated_at: "2026-11-21 01:57"

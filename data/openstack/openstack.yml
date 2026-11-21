@@ -1,0 +1,12 @@
+name: "OpenStack"
+description: "Open-source cloud computing platform for public and private clouds. Provides infrastructure as a service (IaaS) capabilities for managing compute, storage, and networking. Community-driven project backed by major vendors."
+source_url: "https://www.openstack.org/"
+category: "Bare-Metal Servers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "iaas"
+  - "apache-2-0"
+icon_url: "https://icons.duckduckgo.com/ip3/www.openstack.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.openstack.org/>\n\nLicense: Apache License 2.0.\n"
+updated_at: "2026-11-21 01:57"

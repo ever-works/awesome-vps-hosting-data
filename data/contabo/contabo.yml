@@ -1,0 +1,11 @@
+name: "Contabo"
+description: "German hosting company offering low-cost VPS, dedicated servers, and web hosting. Focuses on budget-conscious users with high resource allocations. Paid plans with setup fees on some products."
+source_url: "https://contabo.com/"
+category: "Budget VPS"
+tags:
+  - "paid"
+  - "budget"
+  - "eu"
+icon_url: "https://icons.duckduckgo.com/ip3/contabo.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://contabo.com/>\n"
+updated_at: "2026-11-21 01:57"

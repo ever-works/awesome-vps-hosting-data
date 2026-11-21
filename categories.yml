@@ -1,0 +1,12 @@
+- id: vps-providers
+  name: "VPS Providers"
+- id: bare-metal-servers
+  name: "Bare-Metal Servers"
+- id: budget-vps
+  name: "Budget VPS"
+- id: developer-clouds
+  name: "Developer Clouds"
+- id: benchmarks-and-comparisons
+  name: "Benchmarks & Comparisons"
+- id: eu-and-regional-providers
+  name: "EU & Regional Providers"

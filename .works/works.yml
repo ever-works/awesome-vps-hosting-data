@@ -1,0 +1,31 @@
+company_name: "Awesome VPS Hosting"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome VPS Hosting"
+initial_prompt: "A curated directory of VPS, cloud-server and bare-metal hosting providers, with pricing and benchmark resources. Include products such as Hetzner, DigitalOcean, Vultr, Linode (Akamai), OVHcloud, Contabo, Scaleway, UpCloud, Hostinger VPS, IONOS, netcup, Amazon Lightsail, plus other notable commercial and open-source options. Categories: VPS Providers, Bare-Metal Servers, Budget VPS, Developer Clouds, Benchmarks & Comparisons, EU & Regional Providers. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-vps-hosting-website"
+company_website: "https://vps-hosting.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

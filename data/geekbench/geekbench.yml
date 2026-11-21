@@ -1,0 +1,12 @@
+name: "Geekbench"
+description: "Cross-platform benchmark tool for measuring processor and compute performance. Provides scores for CPU and GPU workloads across devices. Used for comparing VPS and dedicated server performance."
+source_url: "https://geekbench.com/"
+category: "Benchmarks & Comparisons"
+tags:
+  - "freemium"
+  - "paid"
+  - "benchmark"
+  - "performance"
+icon_url: "https://icons.duckduckgo.com/ip3/geekbench.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://geekbench.com/>\n"
+updated_at: "2026-11-21 01:57"
